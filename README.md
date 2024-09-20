@@ -1,5 +1,7 @@
 # TorresOlvera_pr3_numbers
 
+Este programa muestra el tipo de dato que es el numero de la variable
+
 Torres Olvera Gael
 
 #En esta practica mostramos el tipo de dato que es el numero de la variable
